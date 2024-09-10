@@ -1,0 +1,6 @@
+#include <string>
+
+int main() {
+    int value = 42;
+    std::string title = "Bjarne Stroustrup";
+}
